@@ -1,0 +1,217 @@
+.home_body{
+    background-image: url('EFFECTS.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.home_body h1{
+    font-size: 80px;
+    text-align: center;
+    color:#851535;
+}
+
+.home_body h2{
+    font-size: 50px;
+    text-align: center;
+    color:#6e152e;
+}
+
+.home_body ol{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+/* img{
+    filter: blur(5px);
+} */
+
+/* body{
+    background color: #f5d5e2;
+} */
+th,td{
+    border: 2px solid black;
+    padding: 5px;
+}
+
+p::selection{
+    color: antiquewhite;
+    background-color:black;
+}
+
+
+.kufri_body{
+    background-image: url('kufri_bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.kufri_body{
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+.kufri_body h1{
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+.kufri_body h2{
+    font-size: 50px;
+    color:black;
+    font-weight: bold;
+    /* padding-left: 2%; */
+    text-align: left;
+    margin-left: 30px;
+}
+.kufri_body ol{
+    font-size:25px;
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+.kufri_body p{
+  color : black;
+  font-size: x-large;
+  font-weight: bold;
+  /* padding-left: 7% ;
+  padding-bottom: 5% ; */
+  text-align: left;
+  margin-left: 60px;
+}
+.kufri_body ul  li{
+  color:rgb(102, 10, 10);
+  /* margin-left: 10px; */
+}
+.kufri_body ul{
+    font-size:30px;
+    font-weight: bold;
+    /* margin-left: 10px; */
+    text-align: left;
+    margin-left: 80px;
+}
+
+
+.ridge_body{
+    background-image: url('Ridge_bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.ridge_body h1{
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+.ridge_body h2{
+    font-size: 50px;
+    color:black;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.ridge_body ol{
+    font-size:40px;
+    font-weight: bold;
+}
+.ridge_body li{
+    font-size:25px;
+    font-weight: bold;
+}
+.ridge_body p{
+  color : black;
+  font-size: x-large;
+  font-weight: bold;
+  padding: 0pt;
+  background-color:rgb(122, 136, 163);
+  margin: 40px;
+}
+.ridge_body ol > li{
+  color:rgb(78, 4, 28);
+  margin-left: 50px;
+}
+.ridge_body ul > li{
+  font-size: x-large;
+  font-weight:300;
+  margin-left: 50px;
+}
+
+
+.jakhu_body{
+    background-image: url('jakhu_bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.jakhu_body h1{
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+.jakhu_body h2{
+    font-size: 50px;
+    color:black;
+    font-weight: bold;
+}
+.jakhu_body ol{
+    font-size:25px;
+    /* font-weight: bold; */
+}
+.jakhu_body ul{
+    font-size: 35px;
+}
+.jakhu_body p{
+  color : black;
+  font-size: x-large;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+
+.wax_body{
+    background-image: url('Museum_bg1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.wax_body h1,h2{
+    color: rgb(121, 7, 7);
+}
+.wax_body h1{
+    font-size: 100px;
+    text-align: center;
+}
+.wax_body h2{
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.wax_body ol{
+    font-size:40px;
+    font-weight: bold;
+}
+.wax_body p{
+  color : black;
+  font-size: x-large;
+  font-weight: bold;
+  margin-left: 35px;
+  margin-bottom: 20px;
+}
+
+#para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 7px;
+}
+
+#table_wax{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 700;
+    padding: 15px;
+    margin: inherit;
+    border: 5px solid black;
+    border-collapse: collapse;
+    margin-left: 35px;
+}
